@@ -132,7 +132,6 @@ ax.xaxis.set_ticklabels(['neg', 'pos']); ax.yaxis.set_ticklabels(['neg', 'pos'])
 
 
     
-![png](SVM_LR_Classifier_files/SVM_LR_Classifier_19_0.png)
     
     
 
